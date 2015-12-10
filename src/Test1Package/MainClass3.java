@@ -46,7 +46,7 @@ selectionArr(f);
         Scanner sc = new Scanner(System.in);
         int z = sc.nextInt();
         int A[] = new int[z];
-        System.out.println("Создан массив размерностью N = " + z);
+        System.out.println("Создан массив размерностью  N = " + z);
 
         for(int i = 0; i!=z;i++){
 
